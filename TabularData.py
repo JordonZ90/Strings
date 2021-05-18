@@ -5,5 +5,6 @@ def print_picnic(items_dict, left_width, right_width):
 
 
 picnic_items = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 75}
+# variable = {'key':value,}
 print_picnic(picnic_items, 12, 5)
 print_picnic(picnic_items, 20, 6)
